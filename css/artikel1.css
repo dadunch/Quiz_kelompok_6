@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+body{
+    font-family: "Nunito", sans-serif;    
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 1200px;
+    min-width: 350px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    padding-bottom: 10px;
+}
+
+.judul{
+    padding-left: 30px;
+    padding-top: 15px;
+    text-align: left;
+    font-family: "Nunito Sans", sans-serif;
+    font-size: large;
+}
+
+.time{
+    text-align: left;
+    padding-left: 30px;
+    font-size: 12px;
+}
+
+
+.penulis{
+    text-align: left;
+    padding-left: 30px;
+    padding-top: 0px;
+    font-size: 12px;
+}
+
+.isi-content{
+    text-align: left;
+    padding: 15px;
+}
+
